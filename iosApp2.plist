@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>https://github.com/liteyun/iosApp/blob/master/iosApp.ipa</string>
+                   <string>http://litecloud.oss-cn-hangzhou.aliyuncs.com/iosApp.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -19,21 +19,21 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>https://github.com/liteyun/iosApp/blob/master/appIcon.png</string>
+                   <string>http://litecloud.oss-cn-hangzhou.aliyuncs.com/appIcon.png</string>
                </dict>
            </array>
            <key>metadata</key>
            <dict>
-               <key>bundle-identifier</key>
-               <string>com.ionicframework.iosapp451211</string>
-               <key>bundle-version</key>
-               <string>0.0.1</string>
-               <key>kind</key>
-               <string>software</string>
-               <key>subtitle</key>
-               <string>App Subtitle</string>
-               <key>title</key>
-               <string>App Title</string>
+                <key>bundle-identifier</key>
+                <string>com.ionicframework.iosapp451211</string>
+                <key>bundle-version</key>
+                <string>0.0.1</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>subtitle</key>
+                <string>爱如潮水</string>
+                <key>title</key>
+                <string>我的应用</string>
            </dict>
        </dict>
    </array>
